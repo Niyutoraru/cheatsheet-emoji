@@ -3,6 +3,7 @@
 ### Content
 [Animal](#Animal-Back) <br>
 [Expression](#Expression-Back) <br>
+[Food and Drink](#Food-and-Drink-Back) <br>
 [Nature](#Nature-Back) <br>
 [Object](#Object-Back) <br>
 [Person](#Person-Back) <br>
@@ -60,6 +61,31 @@
 | :thought_balloon: `:thought_balloon:` | :thumbsdown: `:thumbsdown:` | :thumbsup: `:thumbsup:` | <br>
 | :tongue: `:tongue:` | :two_hearts: `:two_hearts:` | :v: `:v:` | <br>
 | :wave: `:wave:` | :yellow_heart: `:yellow_heart:` | :zzz: `:zzz:` | <br>
+
+### Food and Drink [Back](#Content)
+| Food and Drink | + | + |
+|---|---|---|
+| :apple: `:apple:` | :baby_bottle: `:baby_bottle:` | :banana: `:banana:` | <br>
+| :beer: `:beer:` | :beers: `:beers:` | :bento: `:bento:` | <br>
+| :birthday: `:birthday:` | :bread: `:bread:` | :cake: `:cake:` | <br>
+| :candy: `:candy:` | :cherries: `:cherries:` | :chocolate_bar: `:chocolate_bar:` | <br>
+| :cocktail: `:cocktail:` | :coffee: `:coffee:` | :cookie: `:cookie:` | <br>
+| :corn: `:corn:` | :curry: `:curry:` | :custard: `:custard:` | <br>
+| :dango: `:dango:` | :doughnut: `:doughnut:` | :egg: `:egg:` | <br>
+| :eggplant: `:eggplant:` | :fish_cake: `:fish_cake:` | :fork_and_knife: `:fork_and_knife:` | <br>
+| :fried_shrimp: `:fried_shrimp:` | :fries: `:fries:` | :grapes: `:grapes:` | <br>
+| :green_apple: `:green_apple:` | :hamburger: `:hamburger:` | :honey_pot: `:honey_pot:` | <br>
+| :ice_cream: `:ice_cream:` | :icecream: `:icecream:` | :lemon: `:lemon:` | <br>
+| :lollipop: `:lollipop:` | :meat_on_bone: `:meat_on_bone:` | :melon: `:melon:` | <br>
+| :oden: `:oden:` | :peach: `:peach:` | :pear: `:pear:` | <br>
+| :pineapple: `:pineapple:` | :pizza: `:pizza:` | :poultry_leg: `:poultry_leg:` | <br>
+| :ramen: `:ramen:` | :rice: `:rice:` | :rice_ball: `:rice_ball:` | <br>
+| :rice_cracker: `:rice_cracker:` | :sake: `:sake:` | :shaved_ice: `:shaved_ice:` | <br>
+| :spaghetti: `:spaghetti:` | :stew: `:stew:` | :strawberry: `:strawberry:` | <br>
+| :sushi: `:sushi:` | :sweet_potato: `:sweet_potato:` | :tangerine: `:tangerine:` | <br>
+| :tea: `:tea:` | :tomato: `:tomato:` | :tropical_drink: `:tropical_drink:` | <br>
+| :watermelon: `:watermelon:` | :wine_glass: `:wine_glass:` | <br>
+
 
 ### Nature [Back](#Content)
 | Nature | + | + |
