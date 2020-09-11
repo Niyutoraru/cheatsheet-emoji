@@ -3,7 +3,8 @@
 ### Content
 [Animal](#Animal-Back) <br>
 [Expression](#Expression-Back) <br>
-[Nature](#nature-Back) <br>
+[Nature](#Nature-Back) <br>
+[Object](#Object-Back) <br>
 [Person](#Person-Back) <br>
 [Smiley](#Smiley-Back) <br>
 [Weather](#Weather-Back) <br>
@@ -72,6 +73,76 @@
 | :seedling: `:seedling:` | :shell: `:shell:` | :sunflower: `:sunflower:` | <br>
 | :tulip: `:tulip:` | <br>
 
+### Object [Back](#Content)
+| Object | + | + |
+|---|---|---|
+| :8ball: `:8ball:` | :alarm_clock: `:alarm_clock:` | :art: `:art:` | <br>
+| :balloon: `:balloon:` | :bamboo: `:bamboo:` | :bar_chart: `:bar_chart:` | <br>
+| :baseball: `:baseball:` | :basketball: `:basketball:` | :bath: `:bath:` | <br>
+| :bathtub: `:bathtub:` | :battery: `:battery:` | :bell: `:bell:` | <br>
+| :bicyclist: `:bicyclist:` | :bikini: `:bikini:` | :black_joker: `:black_joker:` | <br>
+| :black_nib: `:black_nib:` | :blue_book: `:blue_book:` | :bomb: `:bomb:` | <br>
+| :book: `:book:` | :bookmark: `:bookmark:` | :bookmark_tabs: `:bookmark_tabs:` | <br>
+| :books: `:books:` | :boot: `:boot:` | :bowling: `:bowling:` | <br>
+| :briefcase: `:briefcase:` | :bulb: `:bulb:` | :calendar: `:calendar:` | <br>
+| :calling: `:calling:` | :camera: `:camera:` | :card_index: `:card_index:` | <br>
+| :cd: `:cd:` | :chart_with_downwards_trend: `:chart_with_downwards_trend:` | :chart_with_upwards_trend: `:chart_with_upwards_trend:` | <br>
+| :christmas_tree: `:christmas_tree:` | :clapper: `:clapper:` | :clipboard: `:clipboard:` | <br>
+| :closed_book: `:closed_book:` | :closed_lock_with_key: `:closed_lock_with_key:` | :closed_umbrella: `:closed_umbrella:` | <br>
+| :clubs: `:clubs:` | :computer: `:computer:` | :confetti_ball: `:confetti_ball:` | <br>
+| :credit_card: `:credit_card:` | :crown: `:crown:` | :crystal_ball: `:crystal_ball:` | <br>
+| :dart: `:dart:` | :date: `:date:` | :diamonds: `:diamonds:` | <br>
+| :dollar: `:dollar:` | :dolls: `:dolls:` | :door: `:door:` | <br>
+| :dress: `:dress:` | :dvd: `:dvd:` | :e-mail: `:e-mail:` | <br>
+| :electric_plug: `:electric_plug:` | :email: `:email:` | :envelope: `:envelope:` | <br>
+| :euro: `:euro:` | :eyeglasses: `:eyeglasses:` | :fax: `:fax:` | <br>
+| :file_folder: `:file_folder:` | :fireworks: `:fireworks:` | :fishing_pole_and_fish: `:fishing_pole_and_fish:` | <br>
+| :flags: `:flags:` | :flashlight: `:flashlight:` | :floppy_disk: `:floppy_disk:` | <br>
+| :flower_playing_cards: `:flower_playing_cards:` | :football: `:football:` | :game_die: `:game_die:` | <br>
+| :gem: `:gem:` | :ghost: `:ghost:` | :gift: `:gift:` | <br>
+| :gift_heart: `:gift_heart:` | :golf: `:golf:` | :green_book: `:green_book:` | <br>
+| :guitar: `:guitar:` | :gun: `:gun:` | :hammer: `:hammer:` | <br>
+| :handbag: `:handbag:` | :headphones: `:headphones:` | :hearts: `:hearts:` | <br>
+| :high_brightness: `:high_brightness:` | :high_heel: `:high_heel:` | :hocho: `:hocho:` | <br>
+| :horse_racing: `:horse_racing:` | :hourglass: `:hourglass:` | :hourglass_flowing_sand: `:hourglass_flowing_sand:` | <br>
+| :inbox_tray: `:inbox_tray:` | :incoming_envelope: `:incoming_envelope:` | :iphone: `:iphone:` | <br>
+| :jack_o_lantern: `:jack_o_lantern:` | :jeans: `:jeans:` | :key: `:key:` | <br>
+| :kimono: `:kimono:` | :ledger: `:ledger:` | :lipstick: `:lipstick:` | <br>
+| :lock: `:lock:` | :lock_with_ink_pen: `:lock_with_ink_pen:` | :loop: `:loop:` | <br>
+| :loudspeaker: `:loudspeaker:` | :low_brightness: `:low_brightness:` | :mag: `:mag:` | <br>
+| :mag_right: `:mag_right:` | :mahjong: `:mahjong:` | :mailbox: `:mailbox:` | <br>
+| :mailbox_closed: `:mailbox_closed:` | :mailbox_with_mail: `:mailbox_with_mail:` | :mailbox_with_no_mail: `:mailbox_with_no_mail:` | <br>
+| :mans_shoe: `:mans_shoe:` | :mega: `:mega:` | :memo: `:memo:` | <br>
+| :microphone: `:microphone:` | :microscope: `:microscope:` | :minidisc: `:minidisc:` | <br>
+| :money_with_wings: `:money_with_wings:` | :moneybag: `:moneybag:` | :mortar_board: `:mortar_board:` | <br>
+| :mountain_bicyclist: `:mountain_bicyclist:` | :movie_camera: `:movie_camera:` | :musical_keyboard: `:musical_keyboard:` | <br>
+| :musical_score: `:musical_score:` | :mute: `:mute:` | :name_badge: `:name_badge:` | <br>
+| :necktie: `:necktie:` | :newspaper: `:newspaper:` | :no_bell: `:no_bell:` | <br>
+| :notebook: `:notebook:` | :notebook_with_decorative_cover: `:notebook_with_decorative_cover:` | :nut_and_bolt: `:nut_and_bolt:` | <br>
+| :open_file_folder: `:open_file_folder:` | :orange_book: `:orange_book:` | :outbox_tray: `:outbox_tray:` | <br>
+| :page_facing_up: `:page_facing_up:` | :page_with_curl: `:page_with_curl:` | :pager: `:pager:` | <br>
+| :paperclip: `:paperclip:` | :pencil2: `:pencil2:` | :pencil: `:pencil:` | <br>
+| :phone: `:phone:` | :pill: `:pill:` | :postal_horn: `:postal_horn:` | <br>
+| :postbox: `:postbox:` | :pouch: `:pouch:` | :pound: `:pound:` | <br>
+| :purse: `:purse:` | :pushpin: `:pushpin:` | :radio: `:radio:` | <br>
+| :ribbon: `:ribbon:` | :rice_scene: `:rice_scene:` | :ring: `:ring:` | <br>
+| :rugby_football: `:rugby_football:` | :running_shirt_with_sash: `:running_shirt_with_sash:` | :sandal: `:sandal:` | <br>
+| :santa: `:santa:` | :satellite: `:satellite:` | :saxophone: `:saxophone:` | <br>
+| :school_satchel: `:school_satchel:` | :scissors: `:scissors:` | :scroll: `:scroll:` | <br>
+| :seat: `:seat:` | :shirt: `:shirt:` | :shoe: `:shoe:` | <br>
+| :shower: `:shower:` | :ski: `:ski:` | :smoking: `:smoking:` | <br>
+| :snowboarder: `:snowboarder:` | :soccer: `:soccer:` | :sound: `:sound:` | <br>
+| :space_invader: `:space_invader:` | :spades: `:spades:` | :sparkler: `:sparkler:` | <br>
+| :speaker: `:speaker:` | :straight_ruler: `:straight_ruler:` | :surfer: `:surfer:` | <br>
+| :swimmer: `:swimmer:` | :syringe: `:syringe:` | :tada: `:tada:` | <br>
+| :tanabata_tree: `:tanabata_tree:` | :telephone: `:telephone:` | :telephone_receiver: `:telephone_receiver:` | <br>
+| :telescope: `:telescope:` | :tennis: `:tennis:` | :toilet: `:toilet:` | <br>
+| :tophat: `:tophat:` | :triangular_ruler: `:triangular_ruler:` | :trophy: `:trophy:` | <br>
+| :trumpet: `:trumpet:` | :tshirt: `:tshirt:` | :tv: `:tv:` | <br>
+| :unlock: `:unlock:` | :vhs: `:vhs:` | :video_camera: `:video_camera:` | <br>
+| :video_game: `:video_game:` | :violin: `:violin:` | :watch: `:watch:` | <br>
+| :wind_chime: `:wind_chime:` | :womans_clothes: `:womans_clothes:` | :womans_hat: `:womans_hat:` | <br>
+| :wrench: `:wrench:` | :yen: `:yen:` | <br>
 
 ### Person [Back](#Content)
 | Person | + | + |
