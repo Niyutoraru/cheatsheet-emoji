@@ -10,6 +10,7 @@
 [Person](#Person-Back) <br>
 [Position and Transport](#Position-and-Transport-Back) <br>
 [Smiley](#Smiley-Back) <br>
+[Symbol](#Symbol-Back) <br>
 [Weather](#Weather-Back) <br>
 
 ### Animal [Back](#Content)
@@ -268,6 +269,74 @@
 | :weary: `:weary:` | :wink: `:wink:` | :worried: `:worried:` | <br>
 | :yum: `:yum:` | <br>
 
+### Symbol [Back](#Content)
+| Symbol | + | + |
+|---|---|---|
+| :100: `:100:` | :1234: `:1234:` | :a: `:a:` | <br>
+| :ab: `:ab:` | :abc: `:abc:` | :abcd: `:abcd:` | <br>
+| :accept: `:accept:` | :aquarius: `:aquarius:` | :aries: `:aries:` | <br>
+| :arrow_backward: `:arrow_backward:` | :arrow_double_down: `:arrow_double_down:` | :arrow_double_up: `:arrow_double_up:` | <br>
+| :arrow_down: `:arrow_down:` | :arrow_down_small: `:arrow_down_small:` | :arrow_forward: `:arrow_forward:` | <br>
+| :arrow_heading_down: `:arrow_heading_down:` | :arrow_heading_up: `:arrow_heading_up:` | :arrow_left: `:arrow_left:` | <br>
+| :arrow_lower_left: `:arrow_lower_left:` | :arrow_lower_right: `:arrow_lower_right:` | :arrow_right: `:arrow_right:` | <br>
+| :arrow_right_hook: `:arrow_right_hook:` | :arrow_up: `:arrow_up:` | :arrow_up_down: `:arrow_up_down:` | <br>
+| :arrow_up_small: `:arrow_up_small:` | :arrow_upper_left: `:arrow_upper_left:` | :arrow_upper_right: `:arrow_upper_right:` | <br>
+| :arrows_clockwise: `:arrows_clockwise:` | :arrows_counterclockwise: `:arrows_counterclockwise:` | :b: `:b:` | <br>
+| :baby_symbol: `:baby_symbol:` | :baggage_claim: `:baggage_claim:` | :ballot_box_with_check: `:ballot_box_with_check:` | <br>
+| :bangbang: `:bangbang:` | :black_circle: `:black_circle:` | :black_square: `:black_square:` | <br>
+| :black_square_button: `:black_square_button:` | :cancer: `:cancer:` | :capital_abcd: `:capital_abcd:` | <br>
+| :capricorn: `:capricorn:` | :chart: `:chart:` | :children_crossing: `:children_crossing:` | <br>
+| :cinema: `:cinema:` | :cl: `:cl:` | :clock1030: `:clock1030:` | <br>
+| :clock10: `:clock10:` | :clock1130: `:clock1130:` | :clock11: `:clock11:` | <br>
+| :clock1230: `:clock1230:` | :clock12: `:clock12:` | :clock130: `:clock130:` | <br>
+| :clock1: `:clock1:` | :clock230: `:clock230:` | :clock2: `:clock2:` | <br>
+| :clock330: `:clock330:` | :clock3: `:clock3:` | :clock430: `:clock430:` | <br>
+| :clock4: `:clock4:` | :clock530: `:clock530:` | :clock5: `:clock5:` | <br>
+| :clock630: `:clock630:` | :clock6: `:clock6:` | :clock730: `:clock730:` | <br>
+| :clock7: `:clock7:` | :clock830: `:clock830:` | :clock8: `:clock8:` | <br>
+| :clock930: `:clock930:` | :clock9: `:clock9:` | :congratulations: `:congratulations:` | <br>
+| :cool: `:cool:` | :copyright: `:copyright:` | :curly_loop: `:curly_loop:` | <br>
+| :currency_exchange: `:currency_exchange:` | :customs: `:customs:` | :diamond_shape_with_a_dot_inside: `:diamond_shape_with_a_dot_inside:` | <br>
+| :do_not_litter: `:do_not_litter:` | :eight: `:eight:` | :eight_pointed_black_star: `:eight_pointed_black_star:` | <br>
+| :eight_spoked_asterisk: `:eight_spoked_asterisk:` | :end: `:end:` | :fast_forward: `:fast_forward:` | <br>
+| :five: `:five:` | :four: `:four:` | :free: `:free:` | <br>
+| :gemini: `:gemini:` | :hash: `:hash:` | :heart_decoration: `:heart_decoration:` | <br>
+| :heavy_check_mark: `:heavy_check_mark:` | :heavy_division_sign: `:heavy_division_sign:` | :heavy_dollar_sign: `:heavy_dollar_sign:` | <br>
+| :heavy_exclamation_mark: `:heavy_exclamation_mark:` | :heavy_minus_sign: `:heavy_minus_sign:` | :heavy_multiplication_x: `:heavy_multiplication_x:` | <br>
+| :heavy_plus_sign: `:heavy_plus_sign:` | :id: `:id:` | :ideograph_advantage: `:ideograph_advantage:` | <br>
+| :information_source: `:information_source:` | :interrobang: `:interrobang:` | :keycap_ten: `:keycap_ten:` | <br>
+| :koko: `:koko:` | :large_blue_circle: `:large_blue_circle:` | :large_blue_diamond: `:large_blue_diamond:` | <br>
+| :large_orange_diamond: `:large_orange_diamond:` | :left_luggage: `:left_luggage:` | :left_right_arrow: `:left_right_arrow:` | <br>
+| :leftwards_arrow_with_hook: `:leftwards_arrow_with_hook:` | :leo: `:leo:` | :libra: `:libra:` | <br>
+| :link: `:link:` | :m: `:m:` | :mens: `:mens:` | <br>
+| :metro: `:metro:` | :mobile_phone_off: `:mobile_phone_off:` | :negative_squared_cross_mark: `:negative_squared_cross_mark:` | <br>
+| :new: `:new:` | :ng: `:ng:` | :nine: `:nine:` | <br>
+| :no_bicycles: `:no_bicycles:` | :no_entry: `:no_entry:` | :no_entry_sign: `:no_entry_sign:` | <br>
+| :no_mobile_phones: `:no_mobile_phones:` | :no_pedestrians: `:no_pedestrians:` | :no_smoking: `:no_smoking:` | <br>
+| :non-potable_water: `:non-potable_water:` | :o2: `:o2:` | :o: `:o:` | <br>
+| :ok: `:ok:` | :on: `:on:` | :one: `:one:` | <br>
+| :ophiuchus: `:ophiuchus:` | :parking: `:parking:` | :part_alternation_mark: `:part_alternation_mark:` | <br>
+| :passport_control: `:passport_control:` | :pisces: `:pisces:` | :potable_water: `:potable_water:` | <br>
+| :put_litter_in_its_place: `:put_litter_in_its_place:` | :radio_button: `:radio_button:` | :recycle: `:recycle:` | <br>
+| :red_circle: `:red_circle:` | :registered: `:registered:` | :repeat: `:repeat:` | <br>
+| :repeat_one: `:repeat_one:` | :restroom: `:restroom:` | :rewind: `:rewind:` | <br>
+| :sa: `:sa:` | :sagittarius: `:sagittarius:` | :scorpius: `:scorpius:` | <br>
+| :secret: `:secret:` | :seven: `:seven:` | :shipit: `:shipit:` | <br>
+| :signal_strength: `:signal_strength:` | :six: `:six:` | :six_pointed_star: `:six_pointed_star:` | <br>
+| :small_blue_diamond: `:small_blue_diamond:` | :small_orange_diamond: `:small_orange_diamond:` | :small_red_triangle: `:small_red_triangle:` | <br>
+| :small_red_triangle_down: `:small_red_triangle_down:` | :soon: `:soon:` | :sos: `:sos:` | <br>
+| :symbols: `:symbols:` | :taurus: `:taurus:` | :three: `:three:` | <br>
+| :tm: `:tm:` | :top: `:top:` | :trident: `:trident:` | <br>
+| :twisted_rightwards_arrows: `:twisted_rightwards_arrows:` | :two: `:two:` | :u5272: `:u5272:` | <br>
+| :u5408: `:u5408:` | :u55b6: `:u55b6:` | :u6307: `:u6307:` | <br>
+| :u6708: `:u6708:` | :u6709: `:u6709:` | :u6e80: `:u6e80:` | <br>
+| :u7121: `:u7121:` | :u7533: `:u7533:` | :u7981: `:u7981:` | <br>
+| :u7a7a: `:u7a7a:` | :underage: `:underage:` | :up: `:up:` | <br>
+| :vibration_mode: `:vibration_mode:` | :virgo: `:virgo:` | :vs: `:vs:` | <br>
+| :wavy_dash: `:wavy_dash:` | :wc: `:wc:` | :wheelchair: `:wheelchair:` | <br>
+| :white_check_mark: `:white_check_mark:` | :white_circle: `:white_circle:` | :white_flower: `:white_flower:` | <br>
+| :white_square: `:white_square:` | :white_square_button: `:white_square_button:` | :womens: `:womens:` | <br>
+| :x: `:x:` | :zero: `:zero:` | <br>
 
 ### Weather [Back](#Content)
 | Weather | + | + |
