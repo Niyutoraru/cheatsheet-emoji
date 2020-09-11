@@ -5,7 +5,8 @@
 [Expression](#Expression-Back) <br>
 [Nature](#nature-Back) <br>
 [Person](#Person-Back) <br>
-[Smiley](#Smiley-Back)
+[Smiley](#Smiley-Back) <br>
+[Weather](#Weather-Back) <br>
 
 ### Animal [Back](#Content)
 | Animal | + | + |
@@ -123,3 +124,19 @@
 | :triumph: `:triumph:` | :trollface: `:trollface:` | :unamused: `:unamused:` | <br>
 | :weary: `:weary:` | :wink: `:wink:` | :worried: `:worried:` | <br>
 | :yum: `:yum:` | <br>
+
+
+### Weather [Back](#Content)
+| Weather | + | + |
+|---|---|---|
+| :cloud: `:cloud:` | :cyclone: `:cyclone:` | :earth_africa: `:earth_africa:` | <br>
+| :earth_americas: `:earth_americas:` | :earth_asia: `:earth_asia:` | :first_quarter_moon: `:first_quarter_moon:` | <br>
+| :first_quarter_moon_with_face: `:first_quarter_moon_with_face:` | :foggy: `:foggy:` | :full_moon: `:full_moon:` | <br>
+| :full_moon_with_face: `:full_moon_with_face:` | :globe_with_meridians: `:globe_with_meridians:` | :last_quarter_moon: `:last_quarter_moon:` | <br>
+| :last_quarter_moon_with_face: `:last_quarter_moon_with_face:` | :milky_way: `:milky_way:` | :moon: `:moon:` | <br>
+| :new_moon: `:new_moon:` | :new_moon_with_face: `:new_moon_with_face:` | :ocean: `:ocean:` | <br>
+| :octocat: `:octocat:` | :partly_sunny: `:partly_sunny:` | :snowflake: `:snowflake:` | <br>
+| :snowman: `:snowman:` | :sun_with_face: `:sun_with_face:` | :sunny: `:sunny:` | <br>
+| :umbrella: `:umbrella:` | :volcano: `:volcano:` | :waning_crescent_moon: `:waning_crescent_moon:` | <br>
+| :waning_gibbous_moon: `:waning_gibbous_moon:` | :waxing_crescent_moon: `:waxing_crescent_moon:` | :waxing_gibbous_moon: `:waxing_gibbous_moon:` | <br>
+| :zap: `:zap:` | <br>
