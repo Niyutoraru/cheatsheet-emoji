@@ -1,7 +1,8 @@
 ## Emoji 
 
 ### Content
-[Expression](#Expression-Back)
+[Expression](#Expression-Back) <br>
+[Person](#Person-Back) <br>
 [Smiley](#Smiley-Back)
 
 ### Expression [Back](#Content)
@@ -30,7 +31,22 @@
 | :tongue: `:tongue:` | :two_hearts: `:two_hearts:` | :v: `:v:` | <br>
 | :wave: `:wave:` | :yellow_heart: `:yellow_heart:` | :zzz: `:zzz:` | <br>
 
-
+### Person [Back](#Content)
+| Person | + | + |
+|---|---|---|
+| :angel: `:angel:` | :baby: `:baby:` | :bow: `:bow:` | <br>
+| :boy: `:boy:` | :bride_with_veil: `:bride_with_veil:` | :construction_worker: `:construction_worker:` | <br>
+| :cop: `:cop:` | :couple: `:couple:` | :couple_with_heart: `:couple_with_heart:` | <br>
+| :couplekiss: `:couplekiss:` | :dancer: `:dancer:` | :dancers: `:dancers:` | <br>
+| :family: `:family:` | :girl: `:girl:` | :guardsman: `:guardsman:` | <br>
+| :haircut: `:haircut:` | :information_desk_person: `:information_desk_person:` | :man: `:man:` | <br>
+| :man_with_gua_pi_mao: `:man_with_gua_pi_mao:` | :man_with_turban: `:man_with_turban:` | :massage: `:massage:` | <br>
+| :nail_care: `:nail_care:` | :no_good: `:no_good:` | :ok_woman: `:ok_woman:` | <br>
+| :older_man: `:older_man:` | :older_woman: `:older_woman:` | :person_frowning: `:person_frowning:` | <br>
+| :person_with_blond_hair: `:person_with_blond_hair:` | :person_with_pouting_face: `:person_with_pouting_face:` | :princess: `:princess:` | <br>
+| :raising_hand: `:raising_hand:` | :runner: `:runner:` | :running: `:running:` | <br>
+| :two_men_holding_hands: `:two_men_holding_hands:` | :two_women_holding_hands: `:two_women_holding_hands:` | :walking: `:walking:` | <br>
+| :woman: `:woman:` | <br>
 
 ### Smiley [Back](#Content)
 | SMILEY | + | + |
