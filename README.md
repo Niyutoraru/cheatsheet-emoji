@@ -4,6 +4,7 @@
 [Animal](#Animal-Back) <br>
 [Expression](#Expression-Back) <br>
 [Food and Drink](#Food-and-Drink-Back) <br>
+[Language](#Language-Back) <br>
 [Nature](#Nature-Back) <br>
 [Object](#Object-Back) <br>
 [Person](#Person-Back) <br>
@@ -87,6 +88,13 @@
 | :tea: `:tea:` | :tomato: `:tomato:` | :tropical_drink: `:tropical_drink:` | <br>
 | :watermelon: `:watermelon:` | :wine_glass: `:wine_glass:` | <br>
 
+### Language [Back](#Content)
+| Language | + | + |
+|---|---|---|
+| :cn: `:cn:` | :de: `:de:` | :es: `:es:` | <br>
+| :fr: `:fr:` | :gb: `:gb:` | :it: `:it:` | <br>
+| :jp: `:jp:` | :kr: `:kr:` | :ru: `:ru:` | <br>
+| :uk: `:uk:` | :us: `:us:` | <br>
 
 ### Nature [Back](#Content)
 | Nature | + | + |
