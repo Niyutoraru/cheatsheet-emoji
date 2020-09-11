@@ -1,7 +1,35 @@
 ## Emoji 
 
 ### Content
+[Expression](#Expression-Back)
 [Smiley](#Smiley-Back)
+
+### Expression [Back](#Content)
+| EXPRESSION | + | + |
+|---|---|---|
+| :+1: `:+1:` | :-1: `:-1:` | :anger: `:anger:` | <br>
+| :blue_heart: `:blue_heart:` | :boom: `:boom:` | :broken_heart: `:broken_heart:` | <br>
+| :bust_in_silhouette: `:bust_in_silhouette:` | :busts_in_silhouette: `:busts_in_silhouette:` | :clap: `:clap:` | <br>
+| :collision: `:collision:` | :cupid: `:cupid:` | :dash: `:dash:` | <br>
+| :dizzy: `:dizzy:` | :droplet: `:droplet:` | :ear: `:ear:` | <br>
+| :exclamation: `:exclamation:` | :eyes: `:eyes:` | :facepunch: `:facepunch:` | <br>
+| :feet: `:feet:` | :fire: `:fire:` | :fist: `:fist:` | <br>
+| :fu: `:fu:` | :green_heart: `:green_heart:` | :grey_exclamation: `:grey_exclamation:` | <br>
+| :grey_question: `:grey_question:` | :hand: `:hand:` | :heart: `:heart:` | <br>
+| :heartbeat: `:heartbeat:` | :heartpulse: `:heartpulse:` | :kiss: `:kiss:` | <br>
+| :lips: `:lips:` | :love_letter: `:love_letter:` | :metal: `:metal:` | <br>
+| :muscle: `:muscle:` | :musical_note: `:musical_note:` | :nose: `:nose:` | <br>
+| :notes: `:notes:` | :ok_hand: `:ok_hand:` | :open_hands: `:open_hands:` | <br>
+| :point_down: `:point_down:` | :point_left: `:point_left:` | :point_right: `:point_right:` | <br>
+| :point_up: `:point_up:` | :point_up_2: `:point_up_2:` | :pray: `:pray:` | <br>
+| :punch: `:punch:` | :purple_heart: `:purple_heart:` | :question: `:question:` | <br>
+| :raised_hand: `:raised_hand:` | :raised_hands: `:raised_hands:` | :revolving_hearts: `:revolving_hearts:` | <br>
+| :sparkles: `:sparkles:` | :sparkling_heart: `:sparkling_heart:` | :speech_balloon: `:speech_balloon:` | <br>
+| :star2: `:star2:` | :star: `:star:` | :sweat_drops: `:sweat_drops:` | <br>
+| :thought_balloon: `:thought_balloon:` | :thumbsdown: `:thumbsdown:` | :thumbsup: `:thumbsup:` | <br>
+| :tongue: `:tongue:` | :two_hearts: `:two_hearts:` | :v: `:v:` | <br>
+| :wave: `:wave:` | :yellow_heart: `:yellow_heart:` | :zzz: `:zzz:` | <br>
+
 
 
 ### Smiley [Back](#Content)
