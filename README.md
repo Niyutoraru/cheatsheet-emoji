@@ -1,9 +1,36 @@
 ## Emoji 
 
 ### Content
+[Animal](#Animal-Back) <br>
 [Expression](#Expression-Back) <br>
 [Person](#Person-Back) <br>
 [Smiley](#Smiley-Back)
+
+### Animal [Back](#Content)
+| Animal | + | + |
+|---|---|---|
+| :ant: `:ant:` | :baby_chick: `:baby_chick:` | :bear: `:bear:` | <br>
+| :beetle: `:beetle:` | :bird: `:bird:` | :blowfish: `:blowfish:` | <br>
+| :boar: `:boar:` | :bug: `:bug:` | :camel: `:camel:` | <br>
+| :cat2: `:cat2:` | :cat: `:cat:` | :chicken: `:chicken:` | <br>
+| :cow2: `:cow2:` | :cow: `:cow:` | :crocodile: `:crocodile:` | <br>
+| :dog2: `:dog2:` | :dog: `:dog:` | :dolphin: `:dolphin:` | <br>
+| :dragon: `:dragon:` | :dragon_face: `:dragon_face:` | :dromedary_camel: `:dromedary_camel:` | <br>
+| :elephant: `:elephant:` | :fish: `:fish:` | :frog: `:frog:` | <br>
+| :goat: `:goat:` | :hamster: `:hamster:` | :hatched_chick: `:hatched_chick:` | <br>
+| :hatching_chick: `:hatching_chick:` | :honeybee: `:honeybee:` | :horse: `:horse:` | <br>
+| :koala: `:koala:` | :leopard: `:leopard:` | :monkey: `:monkey:` | <br>
+| :monkey_face: `:monkey_face:` | :mouse2: `:mouse2:` | :mouse: `:mouse:` | <br>
+| :octopus: `:octopus:` | :ox: `:ox:` | :panda_face: `:panda_face:` | <br>
+| :penguin: `:penguin:` | :pig2: `:pig2:` | :pig: `:pig:` | <br>
+| :pig_nose: `:pig_nose:` | :poodle: `:poodle:` | :rabbit2: `:rabbit2:` | <br>
+| :rabbit: `:rabbit:` | :racehorse: `:racehorse:` | :ram: `:ram:` | <br>
+| :rat: `:rat:` | :rooster: `:rooster:` | :sheep: `:sheep:` | <br>
+| :snail: `:snail:` | :snake: `:snake:` | :squirrel: `:squirrel:` | <br>
+| :tiger2: `:tiger2:` | :tiger: `:tiger:` | :tropical_fish: `:tropical_fish:` | <br>
+| :turtle: `:turtle:` | :water_buffalo: `:water_buffalo:` | :whale2: `:whale2:` | <br>
+| :whale: `:whale:` | :wolf: `:wolf:` | <br>
+
 
 ### Expression [Back](#Content)
 | EXPRESSION | + | + |
