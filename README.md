@@ -3,6 +3,7 @@
 ### Content
 [Animal](#Animal-Back) <br>
 [Expression](#Expression-Back) <br>
+[Nature](#nature-Back) <br>
 [Person](#Person-Back) <br>
 [Smiley](#Smiley-Back)
 
@@ -57,6 +58,19 @@
 | :thought_balloon: `:thought_balloon:` | :thumbsdown: `:thumbsdown:` | :thumbsup: `:thumbsup:` | <br>
 | :tongue: `:tongue:` | :two_hearts: `:two_hearts:` | :v: `:v:` | <br>
 | :wave: `:wave:` | :yellow_heart: `:yellow_heart:` | :zzz: `:zzz:` | <br>
+
+### Nature [Back](#Content)
+| Nature | + | + |
+|---|---|---|
+| :blossom: `:blossom:` | :bouquet: `:bouquet:` | :cactus: `:cactus:` | <br>
+| :cherry_blossom: `:cherry_blossom:` | :chestnut: `:chestnut:` | :deciduous_tree: `:deciduous_tree:` | <br>
+| :ear_of_rice: `:ear_of_rice:` | :evergreen_tree: `:evergreen_tree:` | :fallen_leaf: `:fallen_leaf:` | <br>
+| :four_leaf_clover: `:four_leaf_clover:` | :herb: `:herb:` | :hibiscus: `:hibiscus:` | <br>
+| :leaves: `:leaves:` | :maple_leaf: `:maple_leaf:` | :mushroom: `:mushroom:` | <br>
+| :palm_tree: `:palm_tree:` | :paw_prints: `:paw_prints:` | :rose: `:rose:` | <br>
+| :seedling: `:seedling:` | :shell: `:shell:` | :sunflower: `:sunflower:` | <br>
+| :tulip: `:tulip:` | <br>
+
 
 ### Person [Back](#Content)
 | Person | + | + |
